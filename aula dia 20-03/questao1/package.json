@@ -1,0 +1,11 @@
+{
+  "name": "questao1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q1.js",
+  "scripts": {
+    "dev": "node q1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
